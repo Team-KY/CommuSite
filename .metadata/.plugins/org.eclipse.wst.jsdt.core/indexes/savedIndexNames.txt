@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\Tenzi\Desktop\CommuSite\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+106680305.index
+1127899076.index
+3857894533.index
+2497803135.index
+1038627440.index
+276065014.index
